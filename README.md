@@ -19,6 +19,7 @@ You can find the source code for the project in the GitHub repository here:
 - Displays a list of candidates.
 - Allows users to search for candidates.
 - Responsive and interactive user interface.
+- Allows wsers to sort according to years of experience.
 
 ### Installation
 
