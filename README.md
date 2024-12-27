@@ -15,7 +15,11 @@ You can find the source code for the project in the GitHub repository here:
 [https://github.com/itsshekhar01/candidate-list-frontend](https://github.com/itsshekhar01/candidate-list-frontend)
 
 ### For Backend you can check
-[https://candidate-list-gyx89n68n-deepanshu-shekars-projects.vercel.app/].(https://candidate-list-gyx89n68n-deepanshu-shekars-projects.vercel.app/).
+ API - (https://candidate-list-gyx89n68n-deepanshu-shekars-projects.vercel.app/).
+
+#### Tech stack:-
+for Backend:- Node.js/Express to create a single API.
+for Frontend :- React.
 
 ### Features
 
